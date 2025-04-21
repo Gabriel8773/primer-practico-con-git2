@@ -6,3 +6,5 @@ En esta clase aprenderemos:
 
 
 Instalacion de Git
+
+Git es un sistema de control de versiones, nos permite gestionar
