@@ -1,0 +1,8 @@
+Estamos en la clase 5 del curos de Desarrollo Fullstack
+
+En esta clase aprenderemos:
+- Git
+- GitHub
+
+
+Instalacion de Git
