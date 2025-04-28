@@ -9,9 +9,9 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 
 ## Agreguen un mensaje
 
+- Hola Mundo!
 - 
-- 
-- 
+- Mi nombre es Sebastian y este es un mensaje de prueba
 - 
 - 
 - 
