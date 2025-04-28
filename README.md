@@ -12,7 +12,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Hola Mundo!
 - Mi nombre es Sebastian y este es un mensaje de prueba
 - Hola soy hector estudiante de diplomatura Full stack CUDI!!
-- 
+- Hola soy Agustin estudiante de diplomatura en el Cudi.
 - 
 - 
 - 
