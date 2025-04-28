@@ -14,7 +14,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Hola soy hector estudiante de diplomatura Full stack CUDI!!
 - 
 - 
-- 
+- Hola soy Axel Rodrigo Chamorro estoy aprendiendo!
 - 
 - 
 - 
