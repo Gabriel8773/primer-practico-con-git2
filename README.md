@@ -17,7 +17,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - actualmente estoy haciendo la tecnicatura de desarrollo y produccion de videos-juegos en el cudi,
  y ademas actualmente asisto a al curso de desarrollo web FullStack
 - 
-- 
+- Me llamo Fabrizio soy un aficionado a la informatica y estudio para ser ingeniero.
 - 
 - 
 - 
