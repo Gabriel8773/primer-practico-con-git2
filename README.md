@@ -9,7 +9,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 
 ## Agreguen un mensaje
 
-- 
+- Hola soy hector estudiante de diplomatura Full stack CUDI!!
 - 
 - 
 - 
