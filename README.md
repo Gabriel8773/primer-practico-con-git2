@@ -16,7 +16,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Hola soy Agustin estudiante de diplomatura en el Cudi.
 - 
 - 
-
+- Hola soy Axel Rodrigo Chamorro estoy aprendiendo!
 - 
 - Hola, soy mauro federico britez.
 - actualmente estoy haciendo la tecnicatura de desarrollo y produccion de videos-juegos en el cudi,
