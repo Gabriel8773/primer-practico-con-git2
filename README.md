@@ -16,8 +16,8 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Hola, soy mauro federico britez.
 - actualmente estoy haciendo la tecnicatura de desarrollo y produccion de videos-juegos en el cudi,
  y ademas actualmente asisto a al curso de desarrollo web FullStack
-- 
--Tecnicatura en Desarrollo Web, Nerea Ávila 
+- Tecnicatura en Desarrollo Web, Nerea Ávila
+-
 - 
 - 
 - 
