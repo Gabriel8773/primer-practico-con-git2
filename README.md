@@ -12,7 +12,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Hola Mundo!
 - Mi nombre es Sebastian y este es un mensaje de prueba
 - Hola soy hector estudiante de diplomatura Full stack CUDI!!
-  
+- Tecnicatura en Desarrollo Web,Nerea Ávila
 - Hola soy Agustin estudiante de diplomatura en el Cudi.
 - Soy Franco Buccino y me encuentro haciendo la diplomatura UTN de desarrollo full stack en CUDI
 - 
@@ -25,5 +25,4 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - hola soy jesus y este es mi primer pull request
 - 
 - Me llamo Fabrizio soy un aficionado a la informatica y estudio para ser ingeniero.
-- 
 - 
