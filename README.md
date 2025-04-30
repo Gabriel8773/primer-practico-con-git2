@@ -25,4 +25,5 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - hola soy jesus y este es mi primer pull request
 - 
 - Me llamo Fabrizio soy un aficionado a la informatica y estudio para ser ingeniero.
+- Hola, soy Leandro y estoy intentando hacer el ejercicio
 - 
