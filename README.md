@@ -15,7 +15,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Tecnicatura en Desarrollo Web,Nerea Ávila
 - Hola soy Agustin estudiante de diplomatura en el Cudi.
 - Soy Franco Buccino y me encuentro haciendo la diplomatura UTN de desarrollo full stack en CUDI
-- 
+- Buenas! Soy Enzo Montenegro. Tarde pero seguro con la actividad de prueba.
 - Hola soy Axel Rodrigo Chamorro estoy aprendiendo!
 - 
 - Hola, soy mauro federico britez.
