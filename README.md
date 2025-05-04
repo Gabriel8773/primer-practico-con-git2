@@ -25,5 +25,6 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - 
 - 
 - Me llamo Fabrizio soy un aficionado a la informatica y estudio para ser ingeniero.
-- 
+
+- Hola a todoss!! Profe, a la hora de enseñar react, porfavor pongase en modo "superdescritivo" y explique cada detalle! :P 
 - 
