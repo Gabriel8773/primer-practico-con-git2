@@ -21,9 +21,9 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 - Hola, soy mauro federico britez.
 - actualmente estoy haciendo la tecnicatura de desarrollo y produccion de videos-juegos en el cudi,
  y ademas actualmente asisto a al curso de desarrollo web FullStack
- 
-- hola soy jesus y este es mi primer pull request
-- 
+- hola soy jesus y este es mi primer pull request 
 - Me llamo Fabrizio soy un aficionado a la informatica y estudio para ser ingeniero.
+- Hola a todoss!! Profe, a la hora de enseñar react, porfavor pongase en modo "superdescritivo" y explique cada detalle! :P 
 - Hola, soy Leandro y estoy intentando hacer el ejercicio
 - Hola, Soy Flavio Arzamendia y Estoy Haciendo el ejercicio.
+
