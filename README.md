@@ -10,6 +10,7 @@ Practico realizado durante la clase del curso de FullStack de CUDI
 ## Agreguen un mensaje
 
 - Hola Mundo!
+- Mi nombre es Adriano y estoy poniendo un mensaje de prueba estoy cursando la DIPLOMATURA EN DESARROLLO WEB DEL CUDI
 - Mi nombre es Sebastian y este es un mensaje de prueba
 - Hola soy hector estudiante de diplomatura Full stack CUDI!!
 - Tecnicatura en Desarrollo Web,Nerea Ávila
